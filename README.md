@@ -1,2 +1,2 @@
-# Assignment-1
+# K Means Clustering
 CISC 121
